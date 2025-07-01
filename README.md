@@ -1,5 +1,6 @@
-# 🐧 Henner Martin Jaschke 🪟
-🛡️ Administrador de Sistemas Informáticos en Red | 🥷 Hacker Ético
+<h1 align="center">🐧 Henner Martin Jaschke 🪟</h1>
+
+<h2 align="center">🛡️ Administrador de Sistemas Informáticos en Red | 🥷 Hacker Ético <br>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Henner13&color=green)
 ![Followers](https://img.shields.io/github/followers/Henner13?label=Seguidores)
