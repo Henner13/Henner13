@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🐧 Henner Martin Jaschke 🪟
+🛡️ Administrador de Sistemas Informáticos en Red | 🥷 Hacker Ético
 
-<!--
-**Henner13/Henner13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://komarev.com/ghpvc/?username=Henner13&color=green)
+![Followers](https://img.shields.io/github/followers/Henner13?label=Seguidores)
+![Stars](https://img.shields.io/github/stars/Henner13?label=Estrellas)
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Administrador de sistemas informáticos en red y hacker ético, con experiencia en Linux, redes, ciberseguridad y administración de sistemas.
+
+Apasionado por la ciberseguridad ofensiva y defensiva, protegiendo y fortaleciendo infraestructuras digitales, tanto en entornos Linux como Windows.
+
+Adicto al aprendizaje y a los CTF's.
+
+
+
+## 🛠️ Algunas Tecnologías que domino
+
+- Linux
+- Windows
+- Redes
+- Seguridad informática
+- Hacking ético
+- Administración de sistemas
+- Bases de Datos
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henner13&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henner13&layout=compact)
+
+## 🌐 Contacto y redes
+
+[GitHub](https://github.com/Henner13) | [LinkedIn](https://www.linkedin.com/in/henner-martin-jaschke)
