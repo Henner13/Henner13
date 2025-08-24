@@ -43,4 +43,4 @@ Adicto al aprendizaje y a los CTF's.
 
 ## 🌐 Contacto y redes
 
-[GitHub](https://github.com/Henner13) | [LinkedIn](https://www.linkedin.com/in/henner-martin-jaschke)
+[GitHub](https://github.com/Henner13) | [LinkedIn](https://www.linkedin.com/in/henner-martin-jaschke) | .[Codédex](https://www.codedex.io/@HennerMJ)
