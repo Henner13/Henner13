@@ -14,6 +14,7 @@ Apasionado por la ciberseguridad ofensiva y defensiva, protegiendo y fortalecien
 
 Adicto al aprendizaje y a los CTF's.
 
+Actualmente aprendiendo el funcionnamiento y los beneficios de DevOps y DevSecOps!
 
 
 ## 🛠️ Algunas Tecnologías que domino
