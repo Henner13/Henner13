@@ -21,9 +21,12 @@ Actualmente aprendiendo el funcionnamiento y los beneficios de DevOps y DevSecOp
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,linux,windows,bash,powershell,git,vscode,docker,mysql,ubuntu,kali" alt="Tecnologías principales" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,bash,powershell,git,mysql" alt="Tecnologías principales" />
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,docker,ubuntu,kali" alt="Tecnologías principales" />
+</p>
 
 
 ## 📊 Estadísticas de GitHub
