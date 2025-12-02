@@ -3,8 +3,8 @@
 <h2 align="center">🛡️ Administrador de Sistemas Informáticos en Red | 🥷 Hacker Ético <br>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Henner13&color=green)
-![Followers](https://img.shields.io/github/followers/Henner13?label=Seguidores)
-![Stars](https://img.shields.io/github/stars/Henner13?label=Estrellas)
+![Followers](https://img.shields.io/github/followers/Henner13?label=Seguidores&style=flat-square&color=green)
+![Stars](https://img.shields.io/github/stars/Henner13?label=Estrellas&&style=flat-square&color=f0db4f)
 
 ## 🧠 Sobre mí
 
@@ -19,20 +19,9 @@ Actualmente aprendiendo el funcionnamiento y los beneficios de DevOps y DevSecOp
 
 ## 🛠️ Algunas Tecnologías que domino
 
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" alt="PowerShell" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="NoSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="40" alt="Linux Mint" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,linux,windows,bash,powershell,git,vscode,docker,mysql,ubuntu,kali" alt="Tecnologías principales" />
 </p>
 
 
@@ -43,5 +32,14 @@ Actualmente aprendiendo el funcionnamiento y los beneficios de DevOps y DevSecOp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henner13&layout=compact)
 
 ## 🌐 Contacto y redes
-
-[GitHub](https://github.com/Henner13) | [LinkedIn](https://www.linkedin.com/in/henner-martin-jaschke) | [Codédex](https://www.codedex.io/@HennerMJ)
+<div align="center">
+  <a href="https://github.com/Henner13" title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="36" height="36" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/henner-martin-jaschke" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/linkedin.png" width="36" height="36" alt="LinkedIn"/>
+  </a>
+  <a href="https://gitlab.com/Henner13" title="GitLab">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/gitlab.png" width="36" height="36" alt="GitLab"/>
+  </a>
+</div>
