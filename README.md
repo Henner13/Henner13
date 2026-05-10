@@ -25,7 +25,7 @@ Actualmente aprendiendo el funcionnamiento y los beneficios de DevOps y DevSecOp
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,windows,vscode,docker,kubernetes,kali" alt="Tecnologías principales" />
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,docker,ansible,gitlab,github,kubernetes,kali" alt="Tecnologías principales" />
 </p>
 
 
