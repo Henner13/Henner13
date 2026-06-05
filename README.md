@@ -5,7 +5,7 @@
   <p>
   <img src="https://komarev.com/ghpvc/?username=Henner13&color=green" alt="Visistas al perfil"/>
   <img src="https://img.shields.io/github/followers/Henner13?label=Seguidores&style=flat-square&color=green" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/Henner13?label=Estrellas&style=flat-square&color=FFD900" alt="Estrellas"/>
+  <img src="https://img.shields.io/github/stars/Henner13?label=Estrellas&style=flat-square&color=ffd900" alt="Estrellas"/>
   </p>
 </div>
     
