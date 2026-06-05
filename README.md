@@ -17,7 +17,9 @@ Apasionado por la ciberseguridad ofensiva y defensiva, protegiendo y fortalecien
 
 Adicto al aprendizaje y a los CTF's.
 
-Actualmente aprendiendo el funcionnamiento y los beneficios de DevOps y DevSecOps!
+Actualmente trabajando en departamentos de:
+- **Control Operacional:** implenetando mejoras, automatizaciones y alertas de control a traves de software de monitoreo.
+- **IT:** Colaborando con nuevos proyectos diseñando la infraestructura de red de los equipos de control. Mantenimiento y resolución de problemas de servidores criticos.
 
 
 ## 🛠️ Algunas Tecnologías que domino
