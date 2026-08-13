@@ -15,12 +15,13 @@ Administrador de sistemas informáticos en red y hacker ético, con experiencia 
 
 Apasionado por la ciberseguridad ofensiva y defensiva, protegiendo y fortaleciendo infraestructuras digitales, tanto en entornos Linux como Windows.
 
-Adicto al aprendizaje y a los CTF's.
+Mi trayectoria profesional la tengo enfocada hacia DevOps.
+
 
 Actualmente trabajando en departamentos de:
 - **Control Operacional:** implenetando mejoras, automatizaciones y alertas de control a traves de software de monitoreo.
 - **IT:** Colaborando con nuevos proyectos diseñando la infraestructura de red de los equipos de control. Mantenimiento y resolución de problemas de servidores criticos.
-
+- **Cooperacion con Develop:** Colaborando en la automatización e implementación de nuevas actualizaciones.
 
 ## 🛠️ Algunas Tecnologías que domino
 
