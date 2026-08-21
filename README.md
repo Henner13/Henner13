@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">🐧 Henner Ignacio Martin Jaschke 🪟</h1>
-  <h2 align="center">🖥️ Administrador de Sistemas Informáticos en Red | 🌐️ DevOps | 🥷 Hacker Ético </h2>
+  <h2 align="center">🖥️ Administrador de Sistemas Informáticos en Red | 🌐️ DevOps Engineer | 🥷 Hacker Ético </h2>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Henner13&color=green" alt="Visistas al perfil"/>
@@ -13,7 +13,7 @@
 
 Administrador de sistemas informáticos en red, DevOps y hacker ético, con experiencia en Linux, redes, ciberseguridad y administración de sistemas.
 
-Siempre automatizando y desplegando nuevos cambios, pero con seguridad y control.
+Siempre automatizando y desplegando nuevos cambio con seguridad y control.
 
 Apasionado por la ciberseguridad ofensiva y defensiva, protegiendo y fortaleciendo infraestructuras digitales, tanto en entornos Linux como Windows.
 
@@ -21,9 +21,9 @@ Mi trayectoria profesional la tengo enfocada hacia DevOps y DevSecOps.
 
 
 Actualmente trabajando en departamentos de:
-- **Control Operacional:** implenetando mejoras, automatizaciones y alertas de control a traves de software de monitoreo.
+- **Control Operacional:** implenetando mejoras, automatizaciones y alertas de control a través de software de monitoreo, junto con la creación propia de programas de auditorias automatizadas.
 - **IT:** Colaborando con nuevos proyectos diseñando la infraestructura de red de los equipos de control. Mantenimiento y resolución de problemas de servidores criticos.
-- **Cooperacion con Develop:** Colaborando en la automatización e implementación de nuevas actualizaciones.
+- **Cooperacion con Develop:** Colaborando en la automatización e implementación de nuevas actualizaciones de software propio.
 
 ## 🛠️ Algunas Tecnologías que domino
 
